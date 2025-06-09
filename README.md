@@ -73,7 +73,7 @@
 
 | Project | link | etc | Year |
 |:--|:--:|:--:|:--:|
-| A Study on Visual Odometry through Deep Learning-based Image Data Feature Point Extraction and Matching | [🔗 Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=4fe963e02cbaac60ffe0bdc3ef48d419&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1) | master’s thesis | 2024|
+| A Study on Visual Odometry through Deep Learning-based Image Data Feature Point Extraction and Matching | [🔗 Paper](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=4fe963e02cbaac60ffe0bdc3ef48d419&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1) | master’s thesis | 2023 |
 | Study on Automatic Control of Argon Vaporization System Using PLC Controller | [🔗 DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10560850) | Treatise | 2021 |
 | A Study on Keypoint Extraction Technique for Representation Map of Work site Patrol Robot Based on Image Information | [🔗 DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11152582) | Treatise | 2022 |
 | Inboard Safety Management Technology Based on Image Analysis Technology | [🔗 RISS](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=6fb28d61372c1a93e9810257f7042666&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1) | Treatise | 2023 |
