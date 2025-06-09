@@ -81,7 +81,3 @@
 | Monitoring system and method for detecting and monitoring personnel in hazardous areas of industrial sites | [🔗 Kipris](https://www.kipris.or.kr/khome/search/searchResult.do) | Patent | 2025 |
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&style=flat&color=lightgrey" alt="Visitor Badge"/>
-</p>
