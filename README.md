@@ -54,9 +54,7 @@
 
 <h4 align="center">🖥️ Edge Devices</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi%204-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetson%20Xavier-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white" />
 </p>
 
