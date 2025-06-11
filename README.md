@@ -70,7 +70,7 @@
 
 | Project | Github | Media |
 |:--|:--:|:--:|
-| SLAM Robot System | [🔗 Github](https://github.com/Rokey3-bootcamp/ROKEY3_SLAM_robot_system.git) | [▶️ Video](https://www.youtube.com/watch?v=ikRZk5629sc) |
+| SLAM Robot System | [🔗 Repo](https://github.com/Rokey3-bootcamp/ROKEY3_SLAM_robot_system.git) | [▶️ Video](https://www.youtube.com/watch?v=ikRZk5629sc) |
 | (Add more projects here) | [🔗 Repo](https://github.com/your_username/project2) | [▶️ Video]([https://youtube.com/your_video2](https://www.youtube.com/watch?v=ikRZk5629sc)) |
 | (Add more projects here) | (🔗 Repo) | (▶️ Video) |
 
