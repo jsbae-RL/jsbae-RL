@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=ni&logoColor=black" />
 </p>
 
 <h4 align="center">🧠 Deep Learning & Computer Vision</h4>
