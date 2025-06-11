@@ -64,7 +64,7 @@
 
 | Project | Github | Media |
 |:--|:--:|:--:|
-| SLAM Robot System | [🔗 Github]([https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=4fe963e02cbaac60ffe0bdc3ef48d419&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1](https://github.com/Rokey3-bootcamp/ROKEY3_SLAM_robot_system)) | [▶️ Video]([https://youtube.com/your_video2](https://www.youtube.com/watch?v=ikRZk5629sc)) |
+| SLAM Robot System | [🔗 Github]([https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=4fe963e02cbaac60ffe0bdc3ef48d419&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1]) | [▶️ Video]([https://youtube.com/your_video2](https://www.youtube.com/watch?v=ikRZk5629sc)) |
 | (Add more projects here) | [🔗 Repo](https://github.com/your_username/project2) | [▶️ Video]([https://youtube.com/your_video2](https://www.youtube.com/watch?v=ikRZk5629sc)) |
 | (Add more projects here) | (🔗 Repo) | (▶️ Video) |
 
