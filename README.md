@@ -58,6 +58,11 @@
   <img src="https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white" />
 </p>
 
+<h4 align="center">⚙️ Industrial Control Systems</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Siemens%20PLC-0078D7?style=flat&logo=siemens&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 Projects & Media (preparing)
