@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=ni&logoColor=black" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/National_Instruments_logo.svg" alt="NI Logo" height="20" />
 </p>
 
 <h4 align="center">🧠 Deep Learning & Computer Vision</h4>
