@@ -8,8 +8,8 @@
 ---
 
 - 🔭 I’m working on **Vision-Based Robot Manipulation**
-- 🌱 Currently learning **Visual SLAM & Odometery, and Deep Learning**
-- 🛠️ Main Skills: **ROS2**, **MoveIt2**, **Computer Vision**, **Deep Learning**
+- 🌱 Currently learning **Visual SLAM & Odometery ROS2, MoveIt2, Reinforcement Learning**
+- 🛠️ Main Skills: **Computer Vision**, **Deep Learning**
 - 📫 Reach me at: [qowotjd2010@gmail.com](mailto:qowotjd2010@gmail.com)
 
 ---
@@ -71,8 +71,8 @@
 | Project | Github | Media |
 |:--|:--:|:--:|
 | SLAM Robot System | [🔗 Repo](https://github.com/Rokey3-bootcamp/ROKEY3_SLAM_robot_system.git) | [▶️ Video](https://www.youtube.com/watch?v=ikRZk5629sc) |
-| (Add more projects here) | [🔗 Repo](https://github.com/your_username/project2) | [▶️ Video]([https://youtube.com/your_video2](https://www.youtube.com/watch?v=ikRZk5629sc)) |
-| (Add more projects here) | (🔗 Repo) | (▶️ Video) |
+| Manipulator Domino Project | [🔗 Repo](https://github.com/Rokey3-bootcamp/Rokey-Collaboration1.git) | [▶️ Video](https://www.youtube.com/watch?v=GL6GqKaTmGw) |
+| Image Word Path Extract | [🔗 Repo](https://github.com/Rokey3-bootcamp/Word-Path-Extract.git) | Result Image in Repo |
 
 
 ### 🚀 Paper & Patent
