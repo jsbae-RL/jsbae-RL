@@ -72,7 +72,8 @@
 |:--|:--:|:--:|
 | SLAM Robot System | [🔗 Repo](https://github.com/JS-Rokey3-Project/ROKEY3_SLAM_robot_system.git) | [▶️ Video](https://www.youtube.com/watch?v=ikRZk5629sc) |
 | Manipulator Domino Project | [🔗 Repo](https://github.com/JS-Rokey3-Project/Rokey-Collaboration1.git) | [▶️ Video](https://www.youtube.com/watch?v=GL6GqKaTmGw) |
-| Image Word Path Extract | [🔗 Repo](https://github.com/JS-Rokey3-Project/Word-Path-Extract.git) | Result Image in Repo |
+| calligraphy Project(full tech) | [🔗 Repo](https://github.com/JS-Rokey3-Project/robo-calligraphy) | Result video in Repo |
+| Image Word Path Extract(unit tech of calligraphy Project) | [🔗 Repo](https://github.com/JS-Rokey3-Project/Word-Path-Extract.git) | Result Image in Repo |
 | Smart Cashier | [🔗 Repo](https://github.com/JS-Rokey3-Project/D-Cashier) | [▶️ Video](https://www.youtube.com/watch?v=oQZS48vI508) |
 
 
