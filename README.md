@@ -81,11 +81,11 @@
 
 | Project | link | etc | Year |
 |:--|:--:|:--:|:--:|
-| A Study on Visual Odometry through Deep Learning-based Image Data Feature Point Extraction and Matching | [🔗 riss](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=4fe963e02cbaac60ffe0bdc3ef48d419&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1) | master’s thesis | 2023 |
-| Study on Automatic Control of Argon Vaporization System Using PLC Controller | [🔗 paper](https://drive.google.com/file/d/1cW-fm5EyUNXrj9Wt5EixctiPnoawg5u5/view?usp=drive_link) | Treatise | 2021 |
-| A Study on Keypoint Extraction Technique for Representation Map of Work site Patrol Robot Based on Image Information | [🔗 paper](https://drive.google.com/file/d/1tEEHYiPHxbXOXnejhlSLlYzusnoA5jN8/view?usp=drive_link) | Treatise | 2022 |
+| A Study on Visual Odometry through Deep Learning-based Image Data Feature Point Extraction and Matching | [🔗RISS](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=4fe963e02cbaac60ffe0bdc3ef48d419&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1) | master’s thesis | 2023 |
+| Study on Automatic Control of Argon Vaporization System Using PLC Controller | [🔗Paper](https://drive.google.com/file/d/1cW-fm5EyUNXrj9Wt5EixctiPnoawg5u5/view?usp=drive_link) | Treatise | 2021 |
+| A Study on Keypoint Extraction Technique for Representation Map of Work site Patrol Robot Based on Image Information | [🔗Paper](https://drive.google.com/file/d/1tEEHYiPHxbXOXnejhlSLlYzusnoA5jN8/view?usp=drive_link) | Treatise | 2022 |
 | Inboard Safety Management Technology Based on Image Analysis Technology | [🔗 RISS](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=6fb28d61372c1a93e9810257f7042666&keyword=%EB%B0%B0%EC%9E%AC%EC%84%B1) | Treatise | 2023 |
-| 영상 데이터 기반 안전 사고 예방을 위한 위험구역 접근탐지 시스템에 관한 연구 | [🔗 paper](https://drive.google.com/file/d/167ihHnyk9PE9w3XROC2az56GptkgnDVw/view?usp=drive_link) | Treatise | 2025 |
-| Monitoring system and method for detecting and monitoring personnel in hazardous areas of industrial sites | [🔗 Kipris](https://www.kipris.or.kr/khome/search/searchResult.do) | Patent | 2025 |
+| 영상 데이터 기반 안전 사고 예방을 위한 위험구역 접근탐지 시스템에 관한 연구 | [🔗Paper](https://drive.google.com/file/d/167ihHnyk9PE9w3XROC2az56GptkgnDVw/view?usp=drive_link) | Treatise | 2025 |
+| Monitoring system and method for detecting and monitoring personnel in hazardous areas of industrial sites | [🔗Kipris](https://www.kipris.or.kr/khome/search/searchResult.do) | Patent | 2025 |
 
 ---
