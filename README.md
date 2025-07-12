@@ -66,7 +66,7 @@
 
 ---
 
-### 🚀 Projects & Media (preparing)
+### 🚀 Projects & Media
 
 | Project | Github | Media |
 |:--|:--:|:--:|
