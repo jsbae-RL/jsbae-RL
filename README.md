@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m working on **Vision-Based Robot Manipulation**
-- 🌱 Currently learning **Visual SLAM & Odometery ROS2, MoveIt2, Reinforcement Learning**
+- 🌱 Currently learning: **Visual SLAM & Odometery, ROS2, MoveIt2, Reinforcement Learning**
 - 🛠️ Main Skills: **Computer Vision**, **Deep Learning**
 - 📫 Reach me at: [qowotjd2010@gmail.com](mailto:qowotjd2010@gmail.com)
 
